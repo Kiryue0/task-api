@@ -1,0 +1,8 @@
+# Image'a gereksiz dosya girmesin, build context küçük kalsın.
+.git
+*.md
+Dockerfile
+.dockerignore
+# Yerel şifreler asla image'a girmesin.
+.env
+.env.*

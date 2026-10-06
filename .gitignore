@@ -1,0 +1,16 @@
+# Derlenmiş binary'ler
+/server
+/task-api
+*.exe
+*.test
+*.out
+
+# Yerel ortam dosyaları (şifre içerebilir; asla commit'leme)
+.env
+.env.*
+!.env.example
+
+# Editör / işletim sistemi
+.idea/
+.vscode/
+.DS_Store
