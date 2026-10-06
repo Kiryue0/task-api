@@ -6,3 +6,4 @@ Dockerfile
 # Yerel şifreler asla image'a girmesin.
 .env
 .env.*
+task-web
